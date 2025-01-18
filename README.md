@@ -14,15 +14,9 @@ Welcome to the **Student Management System**! This is a Python-based tool design
 # How It Works
 
 When you run the program, you’ll see a menu like this:
---- Student Management Menu ---
-a. Add a new student
-b. Edit an existing student
-c. Delete a student
-d. Display a student's information
-e. Manage Advisor (add/remove/display)
-f. Manage courses
-g. Exit. Thank you!
-Choose an option:
+
+![image](https://github.com/user-attachments/assets/83a70014-9826-4e26-bd22-db9908486196)
+
 
 Simply type the letter corresponding to the action you want to perform and follow the on-screen prompts.
 
@@ -31,37 +25,9 @@ Simply type the letter corresponding to the action you want to perform and follo
 
 Heres what is looks like to add a student:
 
-Enter first name: John
-Enter middle name: A
-Enter last name: Doe
-Enter student ID: S003
-Enter street address: 789 Pine St
-Enter city: New York
-Enter state: NY
-Enter zip code: 10001
-Enter address type (home/school): home
-Enter email (or 'done' to finish): john.doe@gmail.com
-Enter email (or 'done' to finish): done
-Enter phone number (or 'done' to finish): 555-123-4567
-Enter phone type (e.g., mobile, home): mobile
-Enter phone number (or 'done' to finish): done
-Enter day of birth: 15
-Enter birth month: 6
-Enter birth year: 2001
-Enter acceptance day: 10
-Enter acceptance month: 8
-Enter acceptance year: 2019
-Enter start semester (e.g., Fall): Fall
-Enter start semester year: 2019
-Enter intended major: Mechanical Engineering
+![image](https://github.com/user-attachments/assets/971bc030-25e3-47f4-986b-3910507fee2b)
 
-Student added successfully.
----
 
-# Why you will love this
-
-Simple & Intuitive: No fancy setup required—just run the code and follow the menu.
-Flexible: Handles everything from student details to course tracking.
 ---
 
 # Summary
